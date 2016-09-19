@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PodTestdemo.xcscheme</key>
+		<key>MyTestDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>019ED9321D8F90F40015B44A</key>
+		<key>019ED9711D8F92B70015B44A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>019ED94B1D8F90F40015B44A</key>
+		<key>019ED98A1D8F92B70015B44A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>019ED9561D8F90F40015B44A</key>
+		<key>019ED9951D8F92B70015B44A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -1,6 +1,6 @@
 //
-//  PodTestdemoTests.m
-//  PodTestdemoTests
+//  MyTestDemoTests.m
+//  MyTestDemoTests
 //
 //  Created by ciefky on 16/9/19.
 //  Copyright © 2016年 ciefky. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface PodTestdemoTests : XCTestCase
+@interface MyTestDemoTests : XCTestCase
 
 @end
 
-@implementation PodTestdemoTests
+@implementation MyTestDemoTests
 
 - (void)setUp {
     [super setUp];
